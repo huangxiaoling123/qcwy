@@ -1,0 +1,43 @@
+  .icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+    }
+
+html{
+	font-size: 1rem;
+}
+body{
+	height: 100%;
+}
+
+header{
+	position: fixed;
+	background-color: #FFFFFF;
+	bottom:0px;
+	width: 100%;
+}
+.mynav{
+	display:inline-block;
+	width: 20%;	
+	float: left;
+	text-align: center;
+	margin-bottom: 10px;
+}
+.mynav>a {
+	text-decoration: none;
+ 	color: #5d656b;
+  font-size: 0.75rem;
+   
+}
+
+.myicon{
+	text-align: center;
+	display: inline-block;
+	font-size: 1.56rem;
+	color: #5d656b;	
+}
+.myicon1{
+	color: #ff842f;
+}
